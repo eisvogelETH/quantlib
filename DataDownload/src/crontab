@@ -1,0 +1,4 @@
+# START CRON JOB
+*/15 * * * * /usr/bin/python /config/workspace/quantlib-server/DataDownload/DataDownload.py ETH
+*/15 * * * * /usr/bin/python /config/workspace/quantlib-server/DataDownload/DataDownload.py BTC
+# END CRON JOB

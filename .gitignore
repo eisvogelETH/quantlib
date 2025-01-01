@@ -1,0 +1,3 @@
+DataDownload/.env
+DataDownload/tools/__pycache__/
+poetry.lock
